@@ -1,16 +1,82 @@
-## Hi there 👋
+<!-- Header animé -->
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Salut,+Je+suis+Augustin+Maré+MILLOGO;🚀+Développeur💡+React+|+Laravel+|+Django;🎯+Passionné+par+l'innovation&center=true&size=25&color=58A6FF)
 
-<!--
-**mareaugustin/mareaugustin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+<!-- Badges animés -->
+<p align="center">
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Mon Stack Technique
+
+### **Frontend & Mobile**
+```bash
+React.js · TailwindCSS · Capacitor · Android Studio
+```
+
+### **Backend & APIs**
+```bash
+Laravel · Django · Cloud APIs · EmailJS · Firebase
+```
+
+### **Bases de Données**
+```bash
+MySQL · SQLite · Cloudinary (Stockage)
+```
+
+### **DevOps & Déploiement**
+```bash
+AWS · Vercel · Render · Docker
+```
+
+### **Outils de Développement**
+```bash
+VS Code · Postman · Figma · Git · Andoid Studio
+```
+
+
+🚀 Mes Projets en Production
+<div align="center">
+🌟 Applications Déployées
+Projet	Description	Stack
+Lovita	Plateforme de rencontres	React, Laravel, MySQL
+Logis Burkina	Solution immobilière	React, Django, Tailwind
+Faso CV Maker	Créateur de CV en ligne	React, Firebase
+Portfolio	Site personnel	React, Tailwind
+Faso Translate	Outil de traduction	React, Cloud APIs
+</div>
+<details> <summary>
+![Lovita](https://res.cloudinary.com/dmyvv8gsc/image/upload/v1760101747/lzflvnfaoqmnzie7ym8w.png)
+![Logis Burkina](https://res.cloudinary.com/dmyvv8gsc/image/upload/v1759615883/jvzjlz0s1notr6t2cklt.png)
+![Faso CV Maker](https://res.cloudinary.com/dmyvv8gsc/image/upload/v1759614831/vtn1rmmadkpk71klgasn.png)
+![Portfolio](https://res.cloudinary.com/dmyvv8gsc/image/upload/v1762643248/Capture_d_%C3%A9cran_du_2025-11-08_23-07-00_m9wwox.png)
+![Faso Translate](https://res.cloudinary.com/dmyvv8gsc/image/upload/v1762643307/Capture_d_%C3%A9cran_du_2025-11-08_23-08-11_vyjyh3.png)
+</summary> <br></details>
+
+
+📊 Mes Statistiques GitHub
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?mareaugustin=MAREAUGUSTIN&show_icons=true&theme=radical&hide_border=true
+
+https://github-readme-stats.vercel.app/api/top-langs/?mareaugustin=MAREAUGUSTIN&layout=compact&theme=radical&hide_border=true
+
+</div>
+
+
+🌟 Ce sur quoi je travaille actuellement
+
+    🔭 En développement : Applications mobile avec React native et Node Js
+
+    🌱 J'apprends : Optimisation des performances et architectures cloud
+
+
+📫 Connectons-nous
+<p align="center"> <a href="https://www.linkedin.com/in/a-mar%C3%A9-millogo"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:augustin.millogo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://mare-millogo-s-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p>
