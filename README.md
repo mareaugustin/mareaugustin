@@ -1,7 +1,7 @@
 <!-- Header animé -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Salut,+Je+suis+MILLOGO;🚀+Développeur💡+React+|+Laravel+|+Django;🎯+Passionné+par+l'innovation&center=true&size=25&color=58A6FF)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Je+suis+MILLOGO+,+Développeur;&center=true&size=20&color=58A6FF)
 
 </div>
 
