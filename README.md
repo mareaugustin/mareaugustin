@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
-<img align="center" alt="Mobile Development" width="100%"  src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" />
+<img align="center" alt="Mobile Development" width="100%"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lhajNoa2V6NmRkd3MwcGpjdWN3a3pmM3FnYm1uZTNkNjY5bWxncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mareaugustin" alt="mareaugustin" /></a> </p>
 
