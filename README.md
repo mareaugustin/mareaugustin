@@ -22,8 +22,22 @@
 
 ### **Frontend**
 ```bash
-React.js · TailwindCSS · Capacitor · Android Studio
+<p align="center">
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://androidstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/androidstudio/androidstudio-icon.svg" alt="androidstudio" width="35" height="35"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://capacitor.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/capacitor/capacitor-icon.svg" alt="capacitor" width="35" height="35"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
 ```
+<br/>
 
 ### **Backend & APIs**
 ```bash
@@ -44,6 +58,15 @@ AWS · Vercel · Render · Docker
 ```bash
 VS Code · Postman · Figma · Git · Andoid Studio
 ```
+<br/> 
+<br/>
+
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mareaugustin&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=mareaugustin&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=mareaugustin&theme=radical&hide_border=false)
+<br/> 
+<br/>
 
 
 🌟 Ce sur quoi je travaille actuellement
