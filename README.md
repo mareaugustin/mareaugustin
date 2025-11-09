@@ -12,6 +12,10 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
 </p>
 
+<img align="center" alt="Mobile Development" width="100%"  src="https://cdn.dribbble.com/userupload/31672791/file/original-7d5994e1f1e51586dbc8e703981511cb.gif" />
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mareaugustin" alt="mareaugustin" /></a> </p>
+
 ---
 
 ## 🛠️ Mon Stack Technique
