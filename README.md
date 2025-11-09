@@ -16,7 +16,7 @@
 
 ## 🛠️ Mon Stack Technique
 
-### **Frontend & Mobile**
+### **Frontend**
 ```bash
 React.js · TailwindCSS · Capacitor · Android Studio
 ```
