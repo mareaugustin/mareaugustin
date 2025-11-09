@@ -14,56 +14,113 @@
 
 <img align="center" alt="Mobile Development" width="100%"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lhajNoa2V6NmRkd3MwcGpjdWN3a3pmM3FnYm1uZTNkNjY5bWxncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mareaugustin" alt="mareaugustin" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mareaugustin" alt="mareaugustin" /></a> </p>
 
 ---
 
-## 🛠️ Mon Stack Technique
+# 🛠️ Mon Stack Technique
 
-### **Frontend**
-```bash
+## <p align="center"> Frontend </p>
+
 <p align="center">
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="35" height="35"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/2300px-React-icon.svg.png" alt="react" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="35" height="35"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://androidstudio.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/androidstudio/androidstudio-icon.svg" alt="androidstudio" width="35" height="35"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://capacitor.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/capacitor/capacitor-icon.svg" alt="capacitor" width="35" height="35"/>
+  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn-icons-png.flaticon.com/128/10480/10480958.png" alt="capacitor" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p>
-```
+<hr/>
+<br/>
 <br/>
 
-### **Backend & APIs**
-```bash
-Laravel · Django · Cloud APIs · EmailJS · Firebase
-```
+## <p align="center">Backend & APIs<p>
 
-### **Bases de Données**
-```bash
-MySQL · SQLite · Cloudinary (Stockage)
-```
+<p align="center">
+<a href="https://laravel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="firebase" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.emailjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.emailjs.com/logo.png" alt="emailjs" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cloud.google.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/448223/gcp.svg" alt="google cloud" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
 
-### **DevOps & Déploiement**
-```bash
-AWS · Vercel · Render · Docker
-```
+<hr/>
+<br/>
+<br/>
 
-### **Outils de Développement**
-```bash
-VS Code · Postman · Figma · Git · Andoid Studio
-```
+## <p align="center">Bases de Données<p>
+<p align="center">
+ <a href="https://www.mysql.com/fr/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="mysql" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/374094/sqlite.svg" alt="sqlite" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://cloudinary.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/353566/cloudinary.svg" alt="cloudinary" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+
+<hr/>
+<br/>
+<br/>
+
+## <p align="center">DevOps & Déploiement<p>
+<p align="center">
+ <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="aws" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="postman" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+
+  <hr/>
+<br/>
+<br/>
+  
+## <p align="center">Outils de Développement<p>
+<p align="center">
+ <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.iconscout.com/icon/free/png-256/free-visual-studio-code-logo-icon-svg-download-png-2724650.png" alt="vs code" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.postman.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" alt="postman" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.worldvectorlogo.com/logos/figma-icon.svg" alt="figma" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" alt="git" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://developer.android.com/" target="_blank" rel="noreferrer">
+    <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/android-studio-icon.png" alt="android studio" width="128" height="128"/>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+<p>
+
+  <hr/>
 <br/> 
 <br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mareaugustin&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-![](https://github-readme-stats.vercel.app/api?username=mareaugustin&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api?username=mareaugustin&theme=radical&_border=false&include_all_commits=true&count_private=true)<br/><br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=mareaugustin&theme=radical&hide_border=false)
 <br/> 
 <br/>
@@ -76,5 +133,5 @@ VS Code · Postman · Figma · Git · Andoid Studio
     🌱 J'apprends : Optimisation des performances et architectures cloud
 
 
-📫 Connectons-nous
+## 📫 Connectons-nous
 <p align="center"> <a href="https://www.linkedin.com/in/a-mar%C3%A9-millogo"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:augustin.millogo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://mare-millogo-s-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p>
