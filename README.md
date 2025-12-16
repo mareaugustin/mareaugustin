@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
+  <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> -->
 </p>
 
 <img align="center" alt="Mobile Development" width="100%"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lhajNoa2V6NmRkd3MwcGpjdWN3a3pmM3FnYm1uZTNkNjY5bWxncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
@@ -29,9 +29,9 @@
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://capacitorjs.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn-icons-png.flaticon.com/128/10480/10480958.png" alt="capacitor" width="128" height="128"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 <p>
 <hr/>
 <br/>
@@ -43,9 +43,9 @@
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/376332/laravel.svg" alt="laravel" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/373554/django.svg" alt="django" width="128" height="128"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/303670/firebase-1-logo.svg" alt="firebase" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
@@ -86,9 +86,9 @@
   <a href="https://www.vercel.com/" target="_blank" rel="noreferrer">
     <img src="https://www.svgrepo.com/show/361653/vercel-logo.svg" alt="postman" width="128" height="128"/>
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
+  <!-- <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/docker-4.svg" alt="docker" width="128" height="128"/>
-  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  </a>&nbsp;&nbsp;&nbsp;&nbsp; -->
 <p>
 
   <hr/>
