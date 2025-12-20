@@ -118,7 +118,7 @@
 <br/> 
 <br/> -->
 
-# 📊 GitHub Stats:
+<!-- # 📊 GitHub Stats: -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mareaugustin&theme=radical&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mareaugustin&theme=radical&layout=compact&hide_border=true&include_all_commits=true&count_private=true" height="180em" />
@@ -132,5 +132,5 @@
 <br/>
 
 
-# 📫 Connectons-nous
+<!-- # 📫 Connectons-nous -->
 <p align="center"> <a href="https://www.linkedin.com/in/a-mar%C3%A9-millogo"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /> </a> <a href="mailto:augustin.millogo.dev@gmail.com"> <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://mare-millogo-s-portfolio.vercel.app/"> <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=firefox&logoColor=white" /> </a> </p>
