@@ -1,7 +1,7 @@
 <!-- Header animé -->
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Je+suis+MILLOGO+,+Développeur;&center=true&size=20&color=58A6FF)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Développeur+d+'+Applications+Web+,+Intégrateur+Web+Desing;&center=true&size=20&color=58A6FF)
 
 </div>
 
@@ -59,7 +59,7 @@
 
 <hr/>
 <br/> -->
-<br/>
+<!-- <br/> -->
 
 <!-- ## <p align="center">Bases de Données<p>
 <p align="center">
@@ -116,7 +116,7 @@
 
   <!-- <hr/>
 <br/> 
-<br/> --> -->
+<br/> -->
 
 # 📊 GitHub Stats:
 <p align="center">
