@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
   <!-- <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django" /> -->
-</p> -->
+<!-- </p> -->
 
 <img align="center" alt="Mobile Development" width="100%"  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2lhajNoa2V6NmRkd3MwcGpjdWN3a3pmM3FnYm1uZTNkNjY5bWxncyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/qgQUggAC3Pfv687qPC/giphy.gif" />
 
@@ -114,9 +114,9 @@
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 <p> -->
 
-  <hr/>
+  <!-- <hr/>
 <br/> 
-<br/> -->
+<br/> --> -->
 
 # 📊 GitHub Stats:
 <p align="center">
