@@ -1,9 +1,9 @@
 <!-- Header animé -->
-<div align="center">
+<!-- <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Développeur+d+'+Applications+Web+,+Intégrateur+Web+Desing;&center=true&size=20&color=58A6FF)
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=👋+Je+suis+MILLOGO+,+Développeur;&center=true&size=20&color=58A6FF)
 
-</div>
+</div> -->
 
 <!-- Badges animés -->
 <!-- <p align="center">
